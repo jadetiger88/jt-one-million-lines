@@ -1,0 +1,63 @@
+.jumbotron {
+    text-align: center;
+    background-image: url(http://www.makerbased.com/oml/images/hero_image.jpg);
+    color: white;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.jumbotron h1 {
+    margin: 0px auto;
+}
+
+.jumbotron p {
+    font-weight: 100;
+    margin-top: 30px;
+    width: 95%;
+    margin: 30px auto 0 auto;
+}
+
+.jumbotron p .btn {
+    font-size: 1.8em;
+}
+
+#whoWeAre,
+#getInvolved {
+    text-align: center;
+    padding: 30px;
+}
+
+#whoWeAre p {
+    font-size: 1.5em;
+    font-weight: 200;
+}
+
+#whoWeAre h2,
+#getInvolved h2 {
+    color: #E74C3C;
+    font-weight: 400;
+}
+
+#whoWeAre hr,
+#getInvolved hr {
+    width: 150px;
+    border-color: #E74C3C;
+}
+
+#whoWeAre span {
+    color: #E74C3C;
+}
+
+#getInvolved {
+    background-color: #f5f5f5;
+}
+
+#getInvolved .btn {
+    color: #E74C3C;
+}
+
+footer {
+    background-color: #E74C3C;
+}
